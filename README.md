@@ -1,4 +1,4 @@
-# ☕ Store--Store-Sales-Data-Analytics-Project
+#  Retail-Store-Sales-Data-Analytics-Project
 
 ## Project Overview:
 This project analyzes retail store sales data using Python, Excel, and PowerBI to identify sales trends,customer purchasing patterns,and business insights.
