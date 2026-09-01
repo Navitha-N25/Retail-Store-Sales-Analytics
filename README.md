@@ -42,6 +42,6 @@ This project analyzes retail store sales data using Python, Excel, and PowerBI t
 ## Author
 ***Navitha**
 
-Aspiring Data Analyst
+Data Analyst Professional
 Skills : Python | SQL | Excel | Power BI
 
