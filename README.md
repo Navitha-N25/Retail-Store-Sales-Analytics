@@ -36,5 +36,5 @@ This project analyzes retail store sales data using Python, Excel, and PowerBI t
 - Project Presentation
 
 
-# Retail-Store-Sales-Analytics
-Retail Store Sales Analytics Project using Python And Power BI
+## Dashboard Preview:
+![Retail Store Dashboard](Retail Stroe Dashboard.pbix)
